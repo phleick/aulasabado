@@ -1,0 +1,14 @@
+.foto-perfil {
+    border-radius: 200%;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.list {
+    list-style-type: none;
+}
